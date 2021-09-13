@@ -1,0 +1,40 @@
+_repo: Oedipus-kiraly_66100
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Csiky, Gergely
+    alias: Csiki, Gergely
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '32843'
+    url: http://www.gutenberg.org/2009/agents/32843
+    wikipedia: https://hu.wikipedia.org/wiki/Csiky_Gergely
+creator:
+  author:
+    agent_name: Sophocles
+    aliases:
+    - Sófocles
+    - Sophokles
+    - Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Szophokl%C3%A9sz
+    - https://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '2021-08-21'
+identifiers:
+  gutenberg: '66100'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oedipus (Greek mythological figure) -- Drama'
+- !lcc 'PA'
+- !lcsh 'Tragedies'
+- GITenberg
+title: Oedipus király
+url: http://www.gutenberg.org/ebooks/66100
